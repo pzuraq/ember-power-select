@@ -22,7 +22,8 @@ module.exports = {
           'ember-cli-fastboot': null,
           'ember-data': '~1.13.0',
           'ember-source': null,
-          'fastboot': null
+          'fastboot': null,
+          'liquid-fire': null
         }
       }
     },
